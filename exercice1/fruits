@@ -1,4 +1,8 @@
 banana
 lemon
 lime
+<<<<<<< HEAD
 strawberry
+=======
+cherry
+>>>>>>> origin/add_cherry
